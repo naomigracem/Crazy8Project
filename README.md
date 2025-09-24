@@ -25,23 +25,29 @@ git clone https://github.com/naomigracem/Crazy8Project.git
 ```
 
 ## Gameplay Screenshots:
-<p align="center">
-  <!-- Game start: players and initial hands -->
-  <img src="images/playerHands.png" alt="Game Start" width="60%"/>
-  <br/>
+<!-- Game start -->
+<div align="center">
   <em>Game start: players’ hands are dealt and displayed.</em>
   <br/><br/>
+  <img src="images/playerHands.png" alt="Game Start" width="10%"/>
+</div>
 
-  <!-- Player draws or plays a card -->
-  <img src="images/gameplay.png" alt="Gameplay" width="60%"/>
-  <br/>
-  <em>/General gameplay.</em>
+<br/>
+
+<!-- Gameplay -->
+<div align="center">
+  <em>General gameplay.</em>
   <br/><br/>
+  <img src="images/gameplay.png" alt="Gameplay" width="40%"/>
+</div>
 
-  <!-- End of game / winner announcement -->
-  <img src="images/winner.png" alt="Winner" width="60%"/>
-  <br/>
+<br/>
+
+<!-- Winner -->
+<div align="center">
   <em>Game end: winner is announced when a player empties their hand.</em>
   <br/><br/>
-</p>
+  <img src="images/winner.png" alt="Winner" width="40%"/>
+</div>
+
 
